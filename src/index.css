@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+   /* :root{
+    --color-BgColor:white;
+    --color-Textcolor:blue;
+   }
+
+   :root[class='dark']{
+    --color-BgColor:black;
+    --color-Textcolor:lightblue;
+   } */
